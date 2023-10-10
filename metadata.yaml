@@ -1,0 +1,57 @@
+_repo: The-humour-of-Russia_71756
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Stepniak, S.
+    aliases:
+    - Kravchinskii, S. M. (Sergei Mikhailovich)
+    - Степняк-Кравчинский, Сергей Михайлович
+    - Stepniak, Sergei
+    - Stepnyak, Sergei Mikhailovich
+    birthdate: 1851
+    deathdate: 1895
+    gutenberg_agent_id: '26503'
+    url: http://www.gutenberg.org/2009/agents/26503
+    wikipedia: https://en.wikipedia.org/wiki/Sergey_Stepnyak-Kravchinsky
+  illustrator:
+    agent_name: Frenzeny, Paul
+    alias: Frenzeny, P. (Paul)
+    deathdate: 1902
+    gutenberg_agent_id: '56384'
+    url: http://www.gutenberg.org/2009/agents/56384
+    wikipedia: https://en.wikipedia.org/wiki/Paul_Frenzeny
+  translator:
+    agent_name: Voynich, E. L. (Ethel Lillian)
+    aliases:
+    - Vaynich, E. L.
+    - Voynich, Ethel Lillian (Boole)
+    - Wornicsz, Ethel
+    - Wojniczowa, Lilla
+    birthdate: 1864
+    deathdate: 1960
+    gutenberg_agent_id: '1196'
+    url: http://www.gutenberg.org/2009/agents/1196
+    wikipedia: https://en.wikipedia.org/wiki/Ethel_Voynich
+description: ''
+gutenberg_issued: '2023-09-29'
+identifiers:
+  gutenberg: '71756'
+  lccn: 01022381
+language: en
+pgterms:marc904: https://archive.org/details/humourofrussi00voynrich
+pgterms:marc905: 20200102235007voynich
+pgterms:marc906: '1895'
+pgterms:marc907: GB
+production_note: Richard Tonsing, MFR, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bWalter Scott Ltd., $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian wit and humor'
+- !lcc 'PN'
+- GITenberg
+title: The humour of Russia
+url: http://www.gutenberg.org/ebooks/71756

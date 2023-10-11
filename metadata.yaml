@@ -32,7 +32,12 @@ contributor:
     gutenberg_agent_id: '1196'
     url: http://www.gutenberg.org/2009/agents/1196
     wikipedia: https://en.wikipedia.org/wiki/Ethel_Voynich
+covers:
+- cover_type: archival
+  image_path: 71756-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71756#The-humour-of-Russia
 gutenberg_issued: '2023-09-29'
 identifiers:
   gutenberg: '71756'
